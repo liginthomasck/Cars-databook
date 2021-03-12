@@ -1,0 +1,17 @@
+/kaggle/input/carsdata/cars.csv
+
+/opt/conda/lib/python3.7/site-packages/traitlets/traitlets.py:2561: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+
+  FutureWarning,
+
+[NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+
+[NbConvertApp] Writing 2709 bytes to __notebook__.ipynb
+
+/opt/conda/lib/python3.7/site-packages/traitlets/traitlets.py:2561: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+
+  FutureWarning,
+
+[NbConvertApp] Converting notebook __notebook__.ipynb to html
+
+[NbConvertApp] Writing 274937 bytes to __results__.html
